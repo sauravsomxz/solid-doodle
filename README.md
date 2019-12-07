@@ -24,7 +24,10 @@ Repo for our first Hack Day in December 2019.
  * HackPac
  
  
- * Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
+ * Team Name -  Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
+   Team - Members - 1. Saurav Ranjan Maharana
+                    2. Parikshit Marwah
+ Despcription: Rock Paper Scissor Game
  
  
  * Vivek Singh
